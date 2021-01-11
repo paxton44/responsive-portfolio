@@ -1,0 +1,22 @@
+body {
+    background-color:#35a7ff;
+}
+
+.card {
+    align-content: center;
+}
+
+.btn {
+    background-color: #fcfff7;
+}
+
+.footer {
+    position:fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    color:white;
+    text-align: center;  
+
+}
