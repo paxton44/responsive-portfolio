@@ -12,7 +12,7 @@ This is my responsive portfolio!
 
 
 ## Deployed Page
- [Here](https://paxton44.github.io/Work-Day-Scheduler/)
+ [Here](https://paxton44.github.io/responsive-portfolio/)
 
 
 
